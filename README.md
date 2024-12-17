@@ -1,42 +1,50 @@
-Projeto Tabela Dinâmica no Excel 📊
-Descrição
-Este projeto consiste na criação de uma tabela dinâmica no Excel, com gráficos e um dashboard interativo, utilizando um banco de dados fornecido. O objetivo é facilitar a análise de dados e fornecer visualizações ricas para insights rápidos.
+# Projeto Tabela Dinâmica no Excel 📊
 
-Tecnologias Utilizadas
-Microsoft Excel: Criação da tabela dinâmica, gráficos e dashboard interativo.
+## Descrição  
+Este projeto demonstra como utilizar o Microsoft Excel para criar uma **tabela dinâmica**, **gráficos** e um **dashboard interativo**, com base em um banco de dados fornecido. O objetivo é simplificar a análise de dados e oferecer visualizações claras e impactantes, permitindo insights rápidos e decisões mais informadas.
 
-Banco de Dados: Dados fornecidos para análise e visualização.
+---
 
-Como Foi Feito?
-Criação da Tabela Dinâmica:
+## Tecnologias Utilizadas  
+- **Microsoft Excel:** Utilizado para a criação da tabela dinâmica, gráficos e dashboard.  
+- **Fonte de Dados:** Conjunto de dados fornecido como base para a análise e visualização.
 
-A tabela dinâmica foi criada no Excel utilizando os dados fornecidos para facilitar a análise e visualização dos dados.
+---
 
-Criação de Gráficos:
+## Etapas do Desenvolvimento  
 
-Diversos gráficos foram gerados a partir da tabela dinâmica para ilustrar visualmente os dados e tendências.
+1. **Criação da Tabela Dinâmica:**  
+   - A tabela dinâmica foi configurada no Excel para organizar os dados e permitir análises detalhadas.  
 
-Desenvolvimento do Dashboard:
+2. **Geração de Gráficos:**  
+   - Foram criados diversos gráficos baseados na tabela dinâmica, destacando tendências e padrões.  
 
-Um dashboard interativo foi desenvolvido no Excel para permitir uma visualização abrangente e interativa dos dados analisados.
+3. **Desenvolvimento do Dashboard:**  
+   - Um dashboard interativo foi projetado para consolidar as informações, permitindo uma experiência visual dinâmica e fácil de usar.
 
-Instruções de Execução
-Para visualizar e interagir com o projeto, siga os passos abaixo:
+---
 
-Download do Arquivo:
+## Instruções de Uso  
 
-Faça o download do arquivo Excel contendo a tabela dinâmica, gráficos e o dashboard.
+1. **Download do Arquivo:**  
+   - Baixe o arquivo Excel do projeto contendo a tabela dinâmica, gráficos e dashboard interativo.  
 
-Abrir no Microsoft Excel:
+2. **Abrir no Microsoft Excel:**  
+   - Certifique-se de utilizar uma versão compatível do Excel para garantir o funcionamento correto do arquivo.  
 
-Abra o arquivo no Microsoft Excel.
+3. **Explorar e Analisar:**  
+   - Interaja com a tabela dinâmica para ajustar os critérios de análise.  
+   - Navegue pelo dashboard para visualizar gráficos e métricas relevantes.
 
-Interagir com a Tabela Dinâmica e Dashboard:
+---
 
-Explore a tabela dinâmica e utilize o dashboard para visualizar os dados e gráficos.
+## Detalhes do Banco de Dados  
+- O banco de dados utilizado foi fornecido como base para este projeto e contém informações essenciais para as análises realizadas.  
+- Ele foi pré-processado no Excel para garantir a integridade e a organização dos dados.
 
-Banco de Dados
-O banco de dados utilizado foi fornecido como parte do projeto para realizar as análises e criar as visualizações.
+---
 
-Créditos
-Desenvolvido por [Vanda Sant Ana].
+## Créditos  
+Desenvolvido por **Vanda Sant Ana**.  
+
+
